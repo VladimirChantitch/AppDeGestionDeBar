@@ -32,7 +32,7 @@
 # BackLog 17-01-2023 après midi
 
 **Vincent fini implémenter la DB et distribution terminée en pear programing avec victor** <br/>
-**Set up requete DAO avec DB Dmitrii, Felix et Vlad en pear programming** <br/>
+**Set up requete DAO avec DB Dmitrii, Felix et Vlad en pear programming, probleme de package** <br/>
 **UI terminé, FElix et Vladimir en pearprogramming** <br/>
 
 
