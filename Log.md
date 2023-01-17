@@ -23,5 +23,9 @@
 **Toutes les class sont faite par victor et corrigé par FElix** -> mise en connexion avec la base de données
 **UI implémenté Felix et vladimir
 
-#
+# Sprint Log 17-01-2023 après midi
+
+**Vincent deploymen de DB avec Victor en support**
+**Requete SQL pour peupler les entiter**
+**UI en pair programming Felix et vladimir**
 
