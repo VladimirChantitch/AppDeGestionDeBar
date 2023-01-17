@@ -20,7 +20,7 @@ namespace GestionBarInterface
             this.nom = nom;
             this.salaire = salaire;
             this.prenom = prenom;
-            this.type = role;
+            this.role = role;
         }
     }
 }
