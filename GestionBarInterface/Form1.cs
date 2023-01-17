@@ -15,16 +15,21 @@ namespace GestionBarInterface
         public Form1()
         {
             InitializeComponent();
+
+            cmbSelectionTable.Items.Add("1");
+            cmbSelectionTable.Items.Add("2");
+            cmbSelectionTable.Items.Add("3");
+
+            cmbSelectionBiere.Items.Add("Grimbergen");
+
+            cmbSelectionCocktail.Items.Add("Tequilla sun rise");
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        
+
+        private void btnValiderCommande_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
+            txbPrixTotal.Text = "Bien";
         }
     }
 }
