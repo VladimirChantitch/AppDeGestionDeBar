@@ -16,3 +16,12 @@
 **Vincent Dmitrii en Pair programming finir UML/ modèle de donné** <br/>
 **Victor class employé, consomation, table, employé** <br/>
 **Vladimir et felix UI en pari programming** <br/>
+
+# BackLog 17-01-2023 midi
+
+**BD en local faite par vincent et dmitrii** -> a faire **Export de la DB**
+**Toutes les class sont faite par victor et corrigé par FElix** -> mise en connexion avec la base de données
+**UI implémenté Felix et vladimir
+
+#
+
