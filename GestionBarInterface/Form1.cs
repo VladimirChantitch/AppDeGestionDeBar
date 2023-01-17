@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GestionBarInterface.bar;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -23,9 +24,10 @@ namespace GestionBarInterface
             cmbSelectionBiere.Items.Add("Grimbergen");
 
             cmbSelectionCocktail.Items.Add("Tequilla sun rise");
+
+            Table table = new Table(1, "table");
         }
 
-        
 
         private void btnValiderCommande_Click(object sender, EventArgs e)
         {
