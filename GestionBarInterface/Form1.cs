@@ -17,13 +17,26 @@ namespace GestionBarInterface
         {
             InitializeComponent();
 
+            List<Stock> stock = new List<Stock>();
+
             cmbSelectionTable.Items.Add("1");
             cmbSelectionTable.Items.Add("2");
             cmbSelectionTable.Items.Add("3");
 
-            cmbSelectionBiere.Items.Add("Grimbergen");
 
             cmbSelectionCocktail.Items.Add("Tequilla sun rise");
+
+            Stock biere = new Stock(1, "Grimbergen", 25, 3.5);
+            Stock jack = new Stock(2, "Jack Daniel", 5, 7);
+            Stock vodka = new Stock(3, "Poliakov", 5, 5);
+            stock.Add(biere);
+            stock.Add(jack);
+            stock.Add(vodka);
+
+            foreach(Stock st in stock)
+            {
+                cmbSelectionBiere.Items.Add($"{st.Libelle} + ({st.volume} ): + {st.prix}");
+            }
 
             Table table = new Table(1, "table");
         }

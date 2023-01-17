@@ -46,11 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AppDeGestionDeBar\Commande.cs" />
-    <Compile Include="AppDeGestionDeBar\Demande.cs" />
-    <Compile Include="AppDeGestionDeBar\Employe.cs" />
-    <Compile Include="AppDeGestionDeBar\Stock.cs" />
-    <Compile Include="AppDeGestionDeBar\Table.cs" />
     <Compile Include="Commande.cs" />
     <Compile Include="Demande.cs" />
     <Compile Include="Employe.cs" />

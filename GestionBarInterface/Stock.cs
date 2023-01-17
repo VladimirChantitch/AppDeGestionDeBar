@@ -8,10 +8,11 @@ namespace GestionBarInterface
 {
     public class Stock
     {
-        int id;
-        string libelle;
-        double volume;
-        double prix;
+        public int id;
+        public string libelle;
+        public string Libelle { get => libelle; set => libelle = value; }
+        public double volume;
+        public double prix;
 
         public Stock(int id, string libelle, double volume, double prix)
         {
