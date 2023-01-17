@@ -19,13 +19,20 @@
 
 # BackLog 17-01-2023 midi
 
-**BD en local faite par vincent et dmitrii** -> a faire **Export de la DB**
-**Toutes les class sont faite par victor et corrigé par FElix** -> mise en connexion avec la base de données
-**UI implémenté Felix et vladimir
+**BD en local faite par vincent et dmitrii** -> a faire **Export de la DB** <br/>
+**Toutes les class sont faite par victor et corrigé par FElix** -> mise en connexion avec la base de données <br/>
+**UI implémenté Felix et vladimir <br/>
 
 # Sprint Log 17-01-2023 après midi
 
-**Vincent deploymen de DB avec Victor en support**
-**Requete SQL pour peupler les entiter**
-**UI en pair programming Felix et vladimir**
+**Vincent deploymen de DB avec Victor en support** <br/>
+**Requete SQL pour peupler les entiter** <br/>
+**UI en pair programming Felix et vladimir** <br/>
+
+# BackLog 17-01-2023 après midi
+
+**Vincent fini implémenter la DB et distribution terminée en pear programing avec victor** <br/>
+**Set up requete DAO avec DB Dmitrii, Felix et Vlad en pear programming** <br/>
+**UI terminé, FElix et Vladimir en pearprogramming** <br/>
+
 
