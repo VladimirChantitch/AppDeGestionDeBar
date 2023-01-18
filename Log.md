@@ -35,4 +35,11 @@
 **Set up requete DAO avec DB Dmitrii, Felix et Vlad en pear programming, probleme de package** <br/>
 **UI terminé, FElix et Vladimir en pearprogramming** <br/>
 
+# Sprint 18-01-2023 matin
+
+**Vincent test de la database** 
+**Felix et Dmitrii Test des fonctionalité métier en pair programming**
+**Victor  et Vladimir DB to CB**
+
+
 
