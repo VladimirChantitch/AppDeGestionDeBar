@@ -37,9 +37,16 @@
 
 # Sprint 18-01-2023 matin
 
-**Vincent test de la database** 
-**Felix et Dmitrii Test des fonctionalité métier en pair programming**
-**Victor  et Vladimir DB to CB**
+**Vincent test de la database** <br/>
+**Felix et Dmitrii Test des fonctionalité métier en pair programming** <br/>
+**Victor  et Vladimir DB to CB** <br/>
+
+# BackLog 18-01-2023 après midi
+
+**Vincent test DB** <br/>
+**Test d'application et refacto en pari avec vladimir (TDD)** <br/>
+**Victor et dmitrii class entité amélioration** <br/>
+
 
 
 
